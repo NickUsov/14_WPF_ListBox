@@ -1,0 +1,17 @@
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\MainWindow.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\Window1.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\App.g.cs
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox_MarkupCompile.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox_MarkupCompile.lref
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\bin\Debug\WPF_ListBox.exe.config
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\bin\Debug\WPF_ListBox.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\bin\Debug\WPF_ListBox.pdb
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\MainWindow.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\Window1.baml
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.g.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.Properties.Resources.resources
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.csproj.GenerateResource.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.exe
+C:\Users\Nick\Documents\01_Mine\01_Step\WPF\labs\05\14\14_WPF_ListBox\WPF_ListBox\WPF_ListBox\obj\Debug\WPF_ListBox.pdb
